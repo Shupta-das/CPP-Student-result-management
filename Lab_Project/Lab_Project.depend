@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1561442987 source:c:\users\shupta das\desktop\lab_project\main.cpp
+	<bits/stdc++.h>
+	"Course.h"
+	"Result.h"
+	"Teacher.h"
+	"Student.h"
+
+1561267001 c:\users\shupta das\desktop\lab_project\course.h
+
+1561442581 c:\users\shupta das\desktop\lab_project\result.h
+	<bits/stdc++.h>
+
+1561442780 c:\users\shupta das\desktop\lab_project\teacher.h
+
+1561816238 c:\users\shupta das\desktop\lab_project\student.h
+	<bits/stdc++.h>
+	<stdio.h>
+	<conio.h>
+
